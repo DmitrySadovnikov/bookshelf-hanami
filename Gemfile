@@ -24,3 +24,10 @@ end
 group :production do
   # gem 'puma'
 end
+
+gem 'rubocop'
+gem 'russian'
+
+# front
+gem 'font-awesome-sass'
+gem 'slim'
